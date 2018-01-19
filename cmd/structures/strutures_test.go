@@ -1,8 +1,8 @@
 package structures
 
 import (
-	"testing"
 	"github.com/stretchr/testify/assert"
+	"testing"
 )
 
 func Test_Structures(t *testing.T) {

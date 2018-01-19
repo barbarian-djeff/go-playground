@@ -9,7 +9,7 @@ type OnWheels struct {
 }
 
 func (hasWheels *OnWheels) CanStandWithoutMoving() bool {
-	return hasWheels.number > 3
+	return hasWheels.number > 2
 }
 
 type Car struct {
